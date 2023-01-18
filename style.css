@@ -69,16 +69,16 @@ div.redes-sociais{
    position: fixed;
    display: flex;
    flex-direction: column;
-   row-gap: 20px;
+   row-gap: 15px;
    top: 85%;
-   right: 10px;
+   right: 5px;
 }
 
 
 
 .redes-sociais img{
    filter: invert(80%);
-   width: 40px;
+   width: 30px;
 }
 
 
